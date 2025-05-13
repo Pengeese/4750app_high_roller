@@ -1,4 +1,4 @@
-package com.jakeludlow.sample_flutter_project
+package com.jakeludlow.high_roller
 
 import io.flutter.embedding.android.FlutterActivity
 
